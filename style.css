@@ -3,3 +3,8 @@ h1 {
   margin: 33px;
   padding: 11px
 }
+
+h2 {
+  color: blue;
+  font-size: 22px;
+}
